@@ -1,4 +1,4 @@
 ## Day 2 - Creating Calculator
-- Get User Float
-- Get User Second Float
-- Sum it
+<br>- Get User Float
+<br>- Get User Second Float
+<br>- Sum it
